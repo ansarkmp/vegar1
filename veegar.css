@@ -1,0 +1,303 @@
+@font-face {
+    font-family: a;
+    src: url(./memtYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWqWuU6F.woff2);
+}
+    @font-face {
+        font-family: b;
+        src: url(./2.woff2);
+}
+@font-face {
+    font-family: c;
+    src: url(./c.woff2);
+}
+@font-face {
+    font-family: d;
+    src: url(./d.woff2);
+}
+@font-face {
+    font-family: e;
+    src: url(./e.woff2);
+}
+@font-face {
+    font-family: f;
+    src: url(./f.woff2);
+}
+
+*{
+    margin: 0%;
+padding: 0%;
+}
+.head{
+    width: 100%;
+    height: 120px;
+    background-color: rgb(252, 250, 250);
+  display: flex;
+  position: fixed;
+}
+.logo{
+    width: 300px;
+    height: 80px;
+    background-color:rgb(251, 253, 253);
+    padding-top: 30px;
+    padding-left: 20px;
+
+   
+}
+.logo img{
+    width: 250px;
+    margin-left: 30px;
+}
+.blank{
+    display: flex;
+ width: 1000px;
+  height: 100px;
+    background-color: rgb(254, 254, 254);   
+   
+}
+.item {
+    color: rgb(5, 5, 5);
+    font-weight:bolder ;
+   display: flex;
+  
+   margin: auto;
+   margin-left: 130px;
+   margin-top: 50px;
+   
+
+}
+
+.item p:hover{
+cursor: pointer;
+
+color: rgb(122, 122, 247);
+
+}
+.item p{
+    width: 130px;
+  font-family: b;
+  font-weight: bolder;
+  color: rgb(71, 57, 57);
+    
+    }
+.small{
+    width: 300px;
+    height: 70px;
+    background-color:rgb(250, 250, 250);
+    padding-top: 30px;
+    padding-left: 90px;
+    display: flex;
+}
+.searching img{
+    width: 40px;
+}
+.contact img{
+    width: 40px;
+    padding-left: 20px;
+}
+.mini img{
+    width: 150px;
+    margin-left: -30px;
+   margin-top: -55px;
+}
+.total{
+    width: 100%;
+    height: 3050px;
+  
+    background-color: rgb(254, 252, 252);
+}
+
+
+.middle img{
+    width: 100%;
+    
+}
+.double{
+    width: 100%;
+    height: 515px;
+    background-color: rgb(247, 247, 250);
+    display: flex;
+    gap: 15px;
+}.picture1 {
+    width: 49%;
+    height: 500px;
+    background-color: brown;
+    display: flex;
+}
+.picture1 img{
+    width: 100%;
+    
+}
+
+.double2{
+    width: 100%;
+    height: px;
+    background-color: rgb(250, 250, 254);
+    display: flex;
+    gap: 15px;
+}.picture2 {
+    width: 49%;
+    height: 500px;
+    background-color: rgb(249, 246, 246);
+    display: flex;
+}
+.picture1 img{
+    width: 100%;
+    
+}
+.discover{
+    width: 100%;
+    height: 100px;
+    background-color: rgb(252, 254, 253);
+    font-weight: bolder;
+    text-align: center;
+    padding-top: 100px;
+}
+.discover h1 { 
+    
+    font-weight: bolder;
+    font-style:initial;
+}
+.long{
+    width: 100%;
+    height: 360px;
+    background-color: rgb(253, 252, 254);
+    display: flex;
+}
+.s1{
+    width: 15%;
+    height: 300px;
+    background-color: rgb(250, 250, 249);
+    text-align: center;
+}
+.s1 img{
+   padding-top: 15px;
+   
+}
+.s22{
+    display: flex;
+    width: 90%;
+    height: 500px;
+    background-color: rgb(250, 248, 248);
+    gap: 90px;
+    margin-left: 70px;
+}
+.image img{
+
+width: 700px;
+}
+.space{
+    width: 100%;
+    height: 120px;
+    background-color: rgb(249, 253, 252);
+    text-align: center;
+  
+}
+.space h1{
+   margin-top: 90px;
+   font-family: f;
+    font-size:70px;
+    color: rgb(74, 70, 70);
+   
+}
+.pc{
+    width: 100%;
+    height: 200px;
+    background-color: rgb(252, 250, 254);
+    display: flex;
+   
+}
+.dicover h1{
+font-family: b;
+}
+.sub-logo{
+margin: auto auto;
+
+}
+.sub-logo img{
+    width: 80%;
+   
+}
+.a{
+    width: 100%;
+    height: 90px;
+    background-color: rgb(51, 48, 48);
+    
+}
+.big{
+    width: 100%;
+    height: 1500px;
+    background-color: rgb(251, 251, 251);
+    
+}
+.a.a{
+    text-align: center;
+    margin-top: 50px;
+    padding-top: 100px;
+    color: rgb(252, 253, 253);
+    font-family: f;
+    font-size: 25px;
+
+}
+.d{
+    width: 100%;
+    height: 600px;
+    background-color: rgb(51, 48, 48);
+    display: flex;
+    
+   
+}
+
+.d img{
+    width: 90%;
+    margin-left: 30px;
+    margin-top: 70px;
+}
+.as{
+    width: 100%;
+    height: 800px;
+    background-color: rgb(51, 48, 48);
+    display: flex;
+    gap: 100px;
+
+}
+.about{
+   
+ width: 300px;
+ height: 400px;
+    padding-top: 150px;
+    font-size: large;
+    background-color: rgb(51, 48, 48);
+   margin-left: 60px;
+
+    
+   
+}.about h3{
+    color: aliceblue;
+    margin-top: 5px;
+    font-weight: bold;   
+    font-size: x-large;
+    font-family: c;
+} 
+.about p{
+    font-size:larger;
+    color: grey;
+    font-family: b;
+}
+
+.m{
+    display: flex;
+    font-size: xx-large;
+    color: aliceblue;
+    width: 3px;
+
+}
+ .h:hover {
+cursor: pointer;
+color: rgb(90, 90, 165);
+}
+.z{
+    color: aliceblue;
+    font-family: b;
+    margin: 40px;
+    font-size: x-large;
+}
